@@ -1,0 +1,4 @@
+#Fri Aug 31 10:59:06 IST 2018
+base.0=/Users/gerardhorgan/AndroidStudioProjects/codelab1/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
